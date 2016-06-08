@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - weddingguestbook@localhost" uuid="d53a2297-4708-4308-ba68-44156b28729a">
+      <secret-storage>master_key</secret-storage>
+      <schema-pattern>weddingguestbook.*</schema-pattern>
+      <default-schemas>weddingguestbook.*</default-schemas>
+    </data-source>
+  </component>
+</project>
